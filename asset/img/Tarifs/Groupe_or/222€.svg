@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="80" viewBox="0 0 142 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000a64;
+        font-size: 72px;
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 36px;
+      }
+    </style>
+  </defs>
+  <text id="_222_" data-name="222€" class="cls-1" transform="translate(71 65)"><tspan x="-70.075" y="0">222</tspan><tspan class="cls-2" y="0">€</tspan></text>
+</svg>

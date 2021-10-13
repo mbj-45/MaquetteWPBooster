@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="275" height="46" viewBox="0 0 275 46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #313131;
+        font-size: 16px;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-family: ArialMT, Arial;
+        font-weight: 400;
+      }
+    </style>
+  </defs>
+  <text id="_1_an_de_support_et_de_mises_à_jour_pour_3_sites" data-name="1 an de support et de mises à jour
+pour 3 sites" class="cls-1"><tspan x="16.102" y="14">1 an</tspan><tspan class="cls-2" y="14" xml:space="preserve"> de support et de mises à jour</tspan><tspan class="cls-2"><tspan x="96.145" y="38">pour </tspan><tspan class="cls-3" y="38">3</tspan><tspan y="38" xml:space="preserve"> sites</tspan></tspan></text>
+</svg>
