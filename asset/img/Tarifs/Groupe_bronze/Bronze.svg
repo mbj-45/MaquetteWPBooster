@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="17" viewBox="0 0 76 17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 16px;
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+      }
+    </style>
+  </defs>
+  <text id="Bronze" class="cls-1" transform="translate(38 14)"><tspan x="-37.777" y="0">BRONZE</tspan></text>
+</svg>
