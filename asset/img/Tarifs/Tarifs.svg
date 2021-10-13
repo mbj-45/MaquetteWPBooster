@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="35" viewBox="0 0 88 35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000a64;
+        font-size: 30px;
+        font-family: Rockwell-Bold, Rockwell;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="Tarifs" class="cls-1" transform="translate(44 28)"><tspan x="-43.887" y="0">Tarifs</tspan></text>
+</svg>
